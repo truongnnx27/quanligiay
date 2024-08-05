@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/JDBC/enu/mssql-jdbc-12.2.0.jre8.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/JDBC/enu/mssql-jdbc-12.2.0.jre11.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/Find_Date/LGoodDatePicker-11.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/Random/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/thuvienpoi/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/SendMail/javax.activation-1.1.0.v201105071233.jar"/>
+	<classpathentry kind="lib" path="D:/fpoly/Library/SendMail/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

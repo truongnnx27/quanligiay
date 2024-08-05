@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T11:32:35 ICT" name="Default suite" finished-at="2024-04-08T11:32:35 ICT" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T11:32:35 ICT" name="Default test" finished-at="2024-04-08T11:32:35 ICT" duration-ms="34">
+      <class name="testNG.ThongKeTest">
+        <test-method signature="testTinhTongDoanhThu()[pri:0, instance:testNG.ThongKeTest@64cd705f]" started-at="2024-04-08T11:32:35 ICT" name="testTinhTongDoanhThu" finished-at="2024-04-08T11:32:35 ICT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhTongDoanhThu -->
+        <test-method signature="testTinhTrungBinhDoanhThu()[pri:0, instance:testNG.ThongKeTest@64cd705f]" started-at="2024-04-08T11:32:35 ICT" name="testTinhTrungBinhDoanhThu" finished-at="2024-04-08T11:32:35 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTinhTrungBinhDoanhThu -->
+      </class> <!-- testNG.ThongKeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
